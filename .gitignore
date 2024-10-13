@@ -1,0 +1,4 @@
+archive/
+/best_model_accuracy.keras
+/best_model_loss.keras
+myenv/
